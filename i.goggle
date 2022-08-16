@@ -5,4 +5,4 @@
 ! avatar: #f7b514
 
 $site=kb.drakesoftware.com,
-/Browse/*$inurl
+/Browse/*$boost=10, inurl
