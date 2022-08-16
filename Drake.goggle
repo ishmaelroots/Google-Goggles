@@ -1,0 +1,8 @@
+! name: Drake Software Article Search
+! description: This goggle is meant to remove all results except the articles for Drake Software (excluding the print files that for some reason still exist) 
+! public: false
+! author: Ishmael Roots
+! avatar: #f7b514
+
+$site:kb.drakesoftware.com
+/Browse/*$inurl
