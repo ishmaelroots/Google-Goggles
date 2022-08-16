@@ -7,5 +7,5 @@
 
 $discard
 $boost=10, $site=walmart.com
-$boost=10, $site=https://www.walmart.com/ip/^
+$boost=10, $site=https://www.walmart.com/*
 
