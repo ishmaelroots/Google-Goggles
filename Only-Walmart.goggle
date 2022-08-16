@@ -2,4 +2,5 @@
 ! description: This goggle is meant to only bring up Walmart's website
 ! public: true
 ! author: Ishmael Roots
-|$boost=10, $site=walmart.com
+$discard
+$boost=10, $site=walmart.com
