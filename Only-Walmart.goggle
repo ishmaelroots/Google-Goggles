@@ -3,4 +3,5 @@
 ! public: false
 ! author: Ishmael Roots
 $discard
-$boost=10, $site=walmart.com
+!$boost=10, $site=walmart.com
+$boost=4, $site=https://www.walmart.com/ip/*
