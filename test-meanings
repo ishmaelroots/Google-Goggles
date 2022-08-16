@@ -7,5 +7,3 @@
 
 $discard
 $boost=10, $site=walmart.com
-! $site=https://www.walmart.com/*
-
