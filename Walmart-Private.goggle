@@ -6,7 +6,7 @@
 
 
 $discard
-$discard, site=walmart.ca*
-$boost=10, $site=walmart.com
+! $discard, site=walmart.ca*
+! $boost=10, $site=walmart.com
 ! $boost=10, $site=https://www.walmart.com/ip/^
 walmart$inurl
