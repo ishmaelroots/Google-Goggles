@@ -9,4 +9,4 @@ https://www.walmart.com/$boost
 $discard
 walmart.ca$discard
 burpy.com$discard
-out of stock$incontent, discard
+out of stock$incontent$discard
