@@ -4,8 +4,7 @@
 ! author: Ishmael Roots
 ! avatar: #f7b511
 
-https://www.walmart.com/$boost=3
-https://www.samsclub.com/$boost=2
+https://www.walmart.com/$boost
 
 $discard
 walmart.ca$discard
