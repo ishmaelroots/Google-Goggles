@@ -1,11 +1,11 @@
 ! name: Only-Walmart
 ! description: This goggle is meant to only bring up Walmart's website
-! public: true
+! public: false
 ! author: Ishmael Roots
 ! avatar: #f7b511
 
+https://www.walmart.com/$boost
 
 $discard
-! $boost=10, $site=walmart.com
-! $boost=10, $site=https://www.walmart.com/ip/^
-walmart$inurl
+walmart.ca$discard
+burpy.com$discard
