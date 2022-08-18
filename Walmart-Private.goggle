@@ -8,4 +8,4 @@
 https://www.walmart.com/$boost
 
 $discard
-walmart.ca,inurl$discard
+walmart.ca$discard
