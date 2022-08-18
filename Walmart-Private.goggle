@@ -5,6 +5,9 @@
 ! avatar: #f7b511
 
 
-discard,walmart.ca,inurl
-! $boost=10, $site=walmart.com
-|https://www.walmart.com/
+https://www.walmart.com/$boost
+
+$discard
+walmart.ca,inurl$discard
+
+
