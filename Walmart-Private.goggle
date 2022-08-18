@@ -5,7 +5,6 @@
 ! avatar: #f7b511
 
 
-$discard
 $discard, $site=walmart.ca*
 ! $boost=10, $site=walmart.com
 ! $boost=10, $site=https://www.walmart.com/ip/^
