@@ -1,0 +1,9 @@
+! name: Drake Software Article Search
+! description: This goggle is meant to only bring up Drake Software's KB Articles that aren't print files. No one has time to wait for those pages to load during tax season.
+! public: true
+! author: Ishmael Roots
+! avatar: #2d7aac
+
+https://kb.drakesoftware.com/Site/Browse/$inurl
+
+$discard
