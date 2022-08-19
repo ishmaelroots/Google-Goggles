@@ -1,0 +1,9 @@
+! name: Only-Ingles-Market
+! description: This goggle is meant to only bring up Ingles Market results
+! public: true
+! author: Ishmael Roots
+! avatar: #2a7f62
+
+$site=shop.ingles-markets.com
+
+$discard
