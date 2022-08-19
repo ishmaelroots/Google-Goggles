@@ -4,6 +4,4 @@
 ! author: Ishmael Roots
 ! avatar: #2d7aac
 
-kb.drakesoftware.com/Site/Browse/$inurl
-
-$discard
+kb.drakesoftware.com/Site/Browse/*$inurl
