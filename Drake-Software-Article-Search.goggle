@@ -4,8 +4,7 @@
 ! author: Ishmael Roots
 ! avatar: #2d7aac
 
-kb.drakesoftware.com$inurl
-! Drake Tax$indescription
+site=kb.drakesoftware.com/Site/Browse/
 
 $discard
 .aspx$discard
