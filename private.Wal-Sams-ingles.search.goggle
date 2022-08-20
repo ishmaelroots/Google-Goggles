@@ -1,0 +1,11 @@
+! name: Wal-Sams-ingles.search
+! description: Wal-Sams-ingles.search
+! public: false
+! author: Ishmael Roots
+! avatar: #013337
+
+$site=shop.ingles-markets.com
+$site=walmart.com
+$site=samsclub.com/club/dallas-tx-sams-club/
+
+$discard
