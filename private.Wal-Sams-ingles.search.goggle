@@ -6,6 +6,6 @@
 
 $site=shop.ingles-markets.com
 $site=walmart.com
-$site=samsclub.com/club/dallas-tx-sams-club/
+/club/dallas-tx-sams-club$site=samsclub.com
 
 $discard
