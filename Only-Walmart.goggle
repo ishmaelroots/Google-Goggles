@@ -1,6 +1,6 @@
 ! name: Only-Walmart
 ! description: This goggle is meant to only bring up Walmart's website
-! public: false
+! public: true
 ! author: Ishmael Roots
 ! avatar: #f7b511
 
