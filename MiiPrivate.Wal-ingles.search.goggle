@@ -8,6 +8,6 @@
 
 $site=walmart.com
 !looking specifically for items that are being sold. Not weekly ads or store locations.
-$site=https://shop.ingles-markets.com/shop/
+$site=https://shop.ingles-markets.com/shop/*
 
 $discard
