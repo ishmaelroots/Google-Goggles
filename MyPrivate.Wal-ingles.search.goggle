@@ -4,7 +4,10 @@
 ! author: Ishmael Roots
 ! avatar: #013337
 
-$site=shop.ingles-markets.com
+
+
 $site=walmart.com
+!looking specifically for items that are being sold. Not weekly ads or store locations.
+$site=shop.ingles-markets.com/shop
 
 $discard
