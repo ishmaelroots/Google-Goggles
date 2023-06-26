@@ -1,10 +1,11 @@
 ! name: Drake Software Article Search
-! description: This goggle is meant to only bring up Drake Software's KB Articles that aren't print files. No one has time to wait for those pages to load during tax season.
-! public: true
+! description: This goggle searchs Drake Software's Knowledge Base while omitting the .aspx pages, the pages that essentailly hit Ctrl+p on your keyboard.
+! Example .aspx webpage: https://kb.drakesoftware.com/Site/Print14290.aspx
+! Corrisponding Goggle Result: https://kb.drakesoftware.com/Site/Browse/14290/1040NR-Creation-and-Efiling
 ! author: Ishmael Roots
 ! avatar: #2d7aac
 
-$site=kb.drakesoftware.com
-
 $discard
 .aspx$discard
+
+$site=kb.drakesoftware.com*
