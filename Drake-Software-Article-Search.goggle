@@ -5,5 +5,4 @@
 ! Example .aspx webpage: https://kb.drakesoftware.com/Site/Print14290.aspx would not appear, but https://kb.drakesoftware.com/Site/Browse/14290/1040NR-Creation-and-Efiling would appear
 
 $site=kb.drakesoftware.com/
-$discard
 aspx$discard
